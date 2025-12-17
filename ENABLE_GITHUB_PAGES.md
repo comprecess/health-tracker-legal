@@ -68,4 +68,4 @@ After enabling GitHub Pages:
 
 ## 📧 Need Help?
 
-If you encounter any issues, contact: pauldealman@gmail.com
+If you encounter any issues, contact: p.sukhorukov@gmail.com

@@ -27,7 +27,7 @@ Health Tracker is a 90-day wellness program app that helps you track:
 For questions or concerns about these legal documents, please contact:
 
 **Pavel Sukhorukov**  
-Email: pauldealman@gmail.com
+Email: p.sukhorukov@gmail.com
 
 ---
 
